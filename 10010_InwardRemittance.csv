@@ -1,0 +1,2 @@
+TransactionDate,ValueDate,CustomerReference,BankReference,TransactionAmount,PayerAccountNumber,PayerIFSC,PayerAccountName,PayerMobileNumber,PayerBank,PayeeAccountNumber,PayeeIFSC,PayeeAccountName,PayeeMobileNumber,PayeeBank,PayerRemarks,AadhaarNumber,MMID,VPA,Product Code,Status
+2018-12-19 07:01:23 UTC,2018-12-19 07:01:23 UTC,10000,,123123,,,rahul,sagar,sagar,sagar,sagar,sagar,sagar,sagar,sagar,sagar,sagar,sagar,sagar,sagar
